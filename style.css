@@ -18,6 +18,7 @@
   align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  background-color: green;
 }
 
 .fi{
@@ -26,6 +27,8 @@
   align-items: center;
   justify-content: start;
   height: 300px;
+  text-align: start;
+  width: 300px;
 }
 
 ul{
